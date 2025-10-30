@@ -137,4 +137,4 @@ curl -X DELETE "http://localhost:8082/documents/my-user-123/document.pdf"
 - For PDF errors, try DOCX/TXT or use OCR.
 
 ## Author
-Venkata Suhas Boddu
+Muddana Aravind Kumar
