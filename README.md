@@ -76,7 +76,7 @@ Retrieval-Augmented Generation (RAG) system for intelligent document Q&A. Upload
 ## Screenshots
 **User Interface:**
 ![User Interface](screenshots/image1.png)
-![User Interface](screenshots/image2.png)
+![User Interface](screenshots/image2'.png)
 ![User Interface](screenshots/image3.png)
 <!-- 
 **API Endpoints:**
